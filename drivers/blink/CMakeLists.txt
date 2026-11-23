@@ -1,4 +1,4 @@
-# Copyright (c) 2024 Nordic Semiconductor ASA
+# Copyright (c) 2026 IAR Systems AB
 # SPDX-License-Identifier: Apache-2.0
 
 zephyr_library()
